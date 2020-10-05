@@ -4,7 +4,7 @@ import TeacherForm from '../../pages/TeacherForm'
 import whatsappIcon from  '../../assets/images/icons/whatsapp.svg'
 import './styles.css'
 
-const TeacherItem = () => {
+function TeacherItem() {
   return (
     <article className="teacher-item">
       <header>
